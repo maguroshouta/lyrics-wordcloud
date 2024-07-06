@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+mecab-python3
+ipadic
+wordcloud
+tqdm
